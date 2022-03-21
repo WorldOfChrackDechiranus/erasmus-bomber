@@ -4,7 +4,7 @@ Erasmus Bomber est un Email Bomber simple d'utilisation 100% Français !
 ## Comment utiliser ?
 * Première:
 ```
-git clone https://github.com/mrgzagzou/erasmus-bomber.git
+git clone https://github.com/WorldOfChrackDechiranus/erasmus-bomber.git
 ```
 * Exécutez le fichier Erasmus.py :
 ```
