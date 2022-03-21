@@ -25,3 +25,5 @@ python Erasmus.py
 ### Avertissement !!
 
 > Uniquement à effectuer pour des tests ! (LEGAL)
+
+> Laisser l'accès aux applications moins sécurisées en [OFF] -> https://myaccount.google.com/lesssecureapps
